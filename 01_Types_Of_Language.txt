@@ -1,0 +1,32 @@
+// Types Of Languages (Procedural , Functional , Object Oriented)
+1. Procedural
+   - Well structured steps and procedures
+   - systematic order of statements , functions and cammoands to compleate a task
+2. Functional
+   - writing a program in pure functions
+3. Object-Oriented
+   - resolves around objects
+
+C++  -  Object-Oriented, Procedural, Generic Programming
+Java  -  Object-Oriented, Procedural
+Python -	Object-Oriented, Procedural, Functional
+JavaScript - Object-Oriented, Procedural, Functional
+C - Procedural
+
+
+--> First-class functions are a feature in programming languages where functions are treated as "first-class citizens." This means functions can be passed around and used just like any other value (such as numbers, strings, or objects).
+--> complile time - Compile time refers to the period during which a program's source code is converted into executable machine code by a compiler. In other words, it is the phase when the source code is checked for syntax errors, type errors, and various optimizations are performed by the compiler
+--> Runtime - it refers to the period when a program is actively executing after it has been compiled
+
+
+// Types Of Languages (Static and Dynamic)
+1. Static
+   - perform type checking at compile time
+   - Error will be shown at compile time
+   - decare type of variable
+   - c , cpp , java
+2. Dynamic
+   - perform type checking at runtime
+   - Error will be shown at runtime
+   - No need to declare type of variable
+   - python , javascript
